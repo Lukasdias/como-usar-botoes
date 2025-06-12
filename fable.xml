@@ -92,7 +92,7 @@
       bg_color="transparent"
       border="dotted"
       border_color="#8b5cf6"
-      animation="hover-bg-color-[#8b5cf6]"
+      animation="hover-bg-color-[#8b5cf6] hover-color-[white]"
       color="#8b5cf6"
       radius="20"
       font-size="16"
