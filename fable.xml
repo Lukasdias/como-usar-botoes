@@ -43,7 +43,7 @@
       y="50"
       text="Hover Effect"
       bg_color="#10b981"
-      animation="hover-bg-color-[#059669]"
+      animation="hover-bg-color-[green]"
       color="white"
       radius="12"
       font-size="16"
