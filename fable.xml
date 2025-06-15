@@ -5,7 +5,6 @@
   <property name="cor_dinamica" default="blue" />
 
   <page id="button-showcase" bg_color="#f0f9ff">
-    <!-- Botão básico com bg_color -->
     <agent
       id="btn-invisible"
       text=" "
@@ -13,6 +12,7 @@
       height="32"
       on_click="set(contador, $contador + 1)"
     />
+    <!-- Botão básico com bg_color -->
     <agent
       id="btn-basic"
       x="50"
