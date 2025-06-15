@@ -10,6 +10,7 @@
       text=" "
       width="32"
       height="32"
+      animation="hover-glow"
       on_click="set(contador, $contador + 1)"
     />
     <!-- Botão básico com bg_color -->
