@@ -9,7 +9,6 @@
     <agent
       id="btn-invisible"
       text=" "
-      font-size="16"
       width="32"
       height="32"
       on_click="set(contador, $contador + 1)"
